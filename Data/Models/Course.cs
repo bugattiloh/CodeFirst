@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace HW_CodeFirst.Data.Models
+namespace CodeFirst.Data.Models
 {
     public class Course
     {

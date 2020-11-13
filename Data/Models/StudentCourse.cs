@@ -1,7 +1,7 @@
 ﻿
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace HW_CodeFirst.Data.Models
+namespace CodeFirst.Data.Models
 {
     public class StudentCourse
     {
